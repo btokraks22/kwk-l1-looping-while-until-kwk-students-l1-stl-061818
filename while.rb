@@ -4,7 +4,7 @@ def using_while
   
   loop do 
     
-    if levitation_force = 10 
+    if levitation_force == 10 
       break
       
   end 
