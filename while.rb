@@ -14,7 +14,7 @@ def using_while
   
   levitation_force = levitation_force + 1 
   
-  puts "You have #{levitation_force}. Congrats!"
+  puts "You have a levitation force of #{levitation_force}. Congrats!"
 
 end 
 
